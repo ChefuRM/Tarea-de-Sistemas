@@ -1,0 +1,21 @@
+<html>
+	<head>
+		<title> Los videojuegos!</title>
+	</head>
+
+	<body>
+		Hola a todos! Aqui les muestro una serie de videojuegos que me parecen geniales y debes de probar
+		<h2 align="center">Título centrado </h2>
+		<h2 title="Soy un atributo de título!">Un título cualquiera</h2>
+		<a href="#" title="En primer lugar">Hollow knight</a>	
+		<p>Hollow Khight es un videojuego perteneciente al género metroidvania desarrollado y publicado por Team Cherry.
+		El videojuego fue inicialmente lanzado para Microsoft Windows en febrero de 2017, y más tarde para macOS y Linux en 2017. </p>
+		<p>El videojuego cuenta la historia del Caballero, en su búsqueda para descubrir los secretos del largamente abandonado reino de Hallownest, cuyas profundidades atraen a los aventureros y valientes con la promesa de tesoros o la respuesta a misterios antiguos</p>
+	
+
+	</body>
+
+
+
+
+</html>
